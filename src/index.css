@@ -11,3 +11,50 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav-navlink {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 20px; /* Add right margin for spacing */
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px 20px; /* Add padding for spacing */
+}
+.bg{
+  background-color:linear-gradient(red, yellow) ;
+}
+
+.fullstack{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-top: 20%;
+}
+
+.cpro{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-top: 20%;
+}
+
+.gop{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-top: 20%;
+}
+
+.java{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-top: 20%;
+}
+
+.py{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-top: 20%;
+}
